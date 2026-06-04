@@ -1,3 +1,14 @@
+// FIREBASE 
+
+const firebaseConfig = {
+  apiKey: "AIzaSyDuxjcR2X8X1_a8G3oWtea969s86vyO_J0",
+  authDomain: "order-tracking-manage.firebaseapp.com",
+  projectId: "order-tracking-manage",
+  storageBucket: "order-tracking-manage.firebasestorage.app",
+  messagingSenderId: "384999105329",
+  appId: "1:384999105329:web:4ff8d500825f286e8c0610"
+};
+
 // ─────────────────────────────────────────────────────────────
 //  PASSKEY — change "9415" to anything you want
 // ─────────────────────────────────────────────────────────────
